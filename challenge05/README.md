@@ -65,8 +65,8 @@ Output:
 ```
 tree := FromArrayToBinarySearchTree(K)
 
-SearchBinarySearchTree(tree, 1) // retorna true
-SearchBinarySearchTree(tree, 9) // retorna false
+SearchBinarySearchTree(tree, 1) // => true
+SearchBinarySearchTree(tree, 9) // => false
 ```
 
 ## Desafio bônus 02:
